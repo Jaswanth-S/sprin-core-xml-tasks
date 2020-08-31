@@ -1,0 +1,19 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "beans.xml" 3 times.(³—é–øÿÿÿÿ8Šî†™Ä.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(º¥ºÿÿÿÿÿ8Šî†™Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±Şıÿÿÿÿÿ8Šî†™Ä.
+K
+java:S1481 ")Remove this unused "mov3" local variable.(¸ıË“ùÿÿÿÿ8Šî†™Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÉ±õÿÿÿÿÿ8Šî†™Ä.
+K
+java:S1481")Remove this unused "mov2" local variable.(¾ç‰ ûÿÿÿÿ8Šî†™Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(é€ÌŠûÿÿÿÿ8Šî†™Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(º¥ºÿÿÿÿÿ8Šî†™Ä.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®À‘Ó8Šî†™Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Àÿ³ıÿÿÿÿ8Šî†™Ä.
+E
+java:S1481")Remove this unused "con2" local variable.(ïë«d8Šî†™Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Àÿ³ıÿÿÿÿ8Šî†™Ä.
+E
+java:S1481")Remove this unused "con3" local variable.(ÄÔ]8Šî†™Ä.

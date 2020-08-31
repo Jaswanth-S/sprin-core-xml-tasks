@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Õ‰Â8ı»Œ™Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿¢„¯ûÿÿÿÿ8ı»Œ™Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°öĞ¶şÿÿÿÿ8ı»Œ™Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†«†Åüÿÿÿÿ8ı»Œ™Ä.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Š¶äë8ı»Œ™Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(º¥ºÿÿÿÿÿ8ı»Œ™Ä.
+O
+java:S1481"-Remove this unused "context1" local variable.(³—é–øÿÿÿÿ8ı»Œ™Ä.
+I
+java:S1481"-Remove this unused "context2" local variable.(˜´øN8ı»Œ™Ä.
